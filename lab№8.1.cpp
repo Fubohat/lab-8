@@ -4,5 +4,5 @@ int main() {
 	int a;
 	cout << "a=";
 	cin >> a;	
-	cout << "otvet" << a/1024;
+	cout << "otvet=" << a/1024;
 }
